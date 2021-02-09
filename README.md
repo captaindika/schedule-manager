@@ -3,5 +3,4 @@
 <li>npm install</li>
 <li>npm start</li>
 </n>
-I user elephantsql for the postgres database, click this <a href='https://www.elephantsql.com/' target='_blank'>Link</a> for more information about elephantsql
-[go](http://stackoverflow.com){:target="_blank"}.
+I user elephantsql for the postgres database, click this <a href='https://www.elephantsql.com/'>Link</a> for more information about elephantsql
